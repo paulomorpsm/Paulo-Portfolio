@@ -80,7 +80,8 @@ The second approach revolves around staying focused on tasks, which helps in swi
           LinkedIn
         </a>
         <a
-          href=""
+          href="https://github.com/paulomorpsm"
+          target="_blank"
           className="ml-0 md:ml-3 flex items-center justify-start transition-colors duration-300 ease-in-out hover:text-gray-700"
         >
           <FaGithub className="mr-2" />

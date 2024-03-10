@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #0c0f11;
+}
+
+.ig-gradient {
+  border-radius: 50%;
+  background: linear-gradient(
+    to right,
+    #feda75,
+    #fa7e1e,
+    #d62976,
+    #962fbf,
+    #4f5bd5
+  );
+  padding: 7px;
+}
+
+.font-helvetica {
+  font-family: Helvetica Neue, sans-serif;
+}
+.font-roboto {
+  font-family: Roboto Mono, sans-serif;
+}
+.color-click-content {
+  color: #eef5fc;
+}
